@@ -1,0 +1,4 @@
+.venv
+.idea
+.eggs
+netstatd_cli.egg-info
